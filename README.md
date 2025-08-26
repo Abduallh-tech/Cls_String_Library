@@ -38,8 +38,6 @@ A C++ string manipulation library that provides a collection of useful string op
 
 # Replace a word with another word
 
-#Reverse the order of words in a string
-
-#Punctuation Handling
-
-#Remove punctuation from a string
+# Reverse the order of words in a string
+# Punctuation Handling
+# Remove punctuation from a string
