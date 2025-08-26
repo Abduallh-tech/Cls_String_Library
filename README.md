@@ -4,40 +4,47 @@ A C++ string manipulation library that provides a collection of useful string op
 
 ### Features
 
-# Word and Character Operations
+1-Word and Character Operations
 
-# Count words in a string
+2-Count words in a string
 
-# Count capital letters, small letters, vowels, or a specific letter
+3-Count capital letters, small letters, vowels, or a specific letter
 
-# Check if a letter is a vowel
+4-Check if a letter is a vowel
 
-# Case Manipulations
+5-Case Manipulations
 
-# Uppercase all letters or lowercase all letters
+6-Uppercase all letters or lowercase all letters
 
-# Uppercase or lowercase the first letter of each word
+7-Uppercase or lowercase the first letter of each word
 
-# Invert the case of all letters
+8-Invert the case of all letters
 
-# String Splitting and Joining
+9-String Splitting and Joining
 
-# Split a string into words or tokens
+10-Split a string into words or tokens
 
-# Join a vector or array of strings into a single string
+11-Join a vector or array of strings into a single string
 
-# Trimming Functions
+12-Trimming Functions
 
-# Trim leading spaces (TrimLeft)
+13-Trim leading spaces (TrimLeft)
 
-# Trim trailing spaces (TrimRight)
+14-Trim trailing spaces (TrimRight)
 
-# Trim both sides (Trim)
+15-Trim both sides (Trim)
 
-# Word Replacement and Reversal
+17-Word Replacement and Reversal
 
-# Replace a word with another word
+18-Replace a word with another word
 
-# Reverse the order of words in a string
-# Punctuation Handling
-# Remove punctuation from a string
+19-Reverse the order of words in a string
+20-Punctuation Handling
+21-Remove punctuation from a string
+
+
+"✅ Reusability: No need to rewrite string functions; they are all encapsulated in one class.
+✅ Encapsulation: The internal implementation of each function is hidden, so we can call methods directly on the object without worrying about their internal logic.
+✅ Static Functions: Functions can be used directly without creating an object.
+✅ Overloading: We created overloaded functions – one that takes parameters and another that works directly on the object’s value. This makes updates easy: if we modify a function, all dependent functions benefit automatically.
+✅ Flexibility: Developers can either use class objects or call the static functions directly."
