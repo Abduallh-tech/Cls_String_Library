@@ -1,4 +1,5 @@
 ### Cls_String_Library
+***
 
 A C++ string manipulation library that provides a collection of useful string operations. This library allows you to easily perform tasks like 
 
@@ -42,7 +43,7 @@ A C++ string manipulation library that provides a collection of useful string op
 
 21-Remove punctuation from a string
 
-
+***
 
 ### Features
 
