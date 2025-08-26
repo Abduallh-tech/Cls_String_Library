@@ -1,16 +1,16 @@
-##Cls_String_Library
+## Cls_String_Library
 
 A C++ string manipulation library that provides a collection of useful string operations. This library allows you to easily perform tasks like word counting, case conversion, trimming, splitting, joining, reversing words, replacing words, and removing punctuation.
 
-##Features
+## Features
 
-#Word and Character Operations
+# Word and Character Operations
 
-#Count words in a string
+# Count words in a string
 
-#Count capital letters, small letters, vowels, or a specific letter
+# Count capital letters, small letters, vowels, or a specific letter
 
-#Check if a letter is a vowel
+# Check if a letter is a vowel
 
 #Case Manipulations
 
